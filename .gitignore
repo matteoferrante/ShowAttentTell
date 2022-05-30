@@ -17,7 +17,10 @@ ipython_config.py
 *.pt
 features/
 data/
-fmri/
+frmi/
+frmi.fsf
+downloader_ipynb
+download_coco.py
 
 
 # Remove previous ipynb_checkpoints
